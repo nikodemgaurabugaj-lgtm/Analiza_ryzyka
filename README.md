@@ -6,6 +6,8 @@ Pilotaż: **Nysa Kłodzka w Kłodzku** — NMT 1 m GUGiK oraz rzeczywiste geomet
 
 To **nie** jest mapa zagrożenia powodziowego ISOK i **nie** zastępuje modelu hydraulicznego 1D/2D.
 
+> **Zacznij tutaj, jeśli dużo nie rozumiesz:** [`README_PROSTY.md`](README_PROSTY.md) — słowniczek, suwaki, scenariusz prezentacji i gotowe odpowiedzi na pytania.
+
 ## Po co to jest
 
 Oficjalne MZP (Hydroportal) powstają z przepływów Q₁₀ / Q₁ / Q₀,₂ i modelu hydraulicznego. FalaNMT odpowiada na inne pytanie:
